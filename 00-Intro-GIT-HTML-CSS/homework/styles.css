@@ -1,0 +1,27 @@
+<style>
+h1 {
+    color: royalblue;
+    font-size: 50px;
+}
+h3 {
+    color:seagreen;
+    font-size: 20px;
+}
+img {
+    width: 400px;
+    height: 300px;
+}
+#thirdDiv {
+    height: 500px;
+    width: 600px;
+    background-color: red;
+    padding: 50px;
+    border: 1px solid goldenrod;
+    border-style: dotted;
+    border-color: seagreen;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+</style>
